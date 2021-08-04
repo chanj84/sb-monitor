@@ -1,0 +1,7 @@
+**/._*
+**/.DS_Store
+**/thumbs.db
+**/desktop.ini
+
+**/__pycache__/
+**/*.pyc
